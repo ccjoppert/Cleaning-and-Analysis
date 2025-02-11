@@ -11,7 +11,7 @@ Welcome to my **portfolio repository**! This space showcases my projects, skills
 🔹 **[Clinical Trial Analysis]** – *Coming soon* 
 
 ## 🛠 Skills  
-- **Programming and Data Analysis:** Python, SQL, Excel (VBA, macros, pivot tables, etc...)   
+- **Programming and Data Analysis:** Python (Pandas, NumPy, Matplotlib), SQL (JOINS, CTE, and windows), Excel (VBA, macros, pivot tables, etc...)   
 - **Visualizations:** Tableau and Looker.
 - **Statistical Methods:** A/B testing, Linear Regression, Hypothesis Testing, & more. 
 
