@@ -16,5 +16,5 @@ Welcome to my **portfolio repository**! This space showcases my projects, skills
 
 ## 📫 Contact  
 📧 Email: [ccjoppert@gmail.com]  
-🔗 LinkedIn: [your profile]  
+🔗 LinkedIn: [www.linkedin.com/in/claudia-joppert-888568161  
 
