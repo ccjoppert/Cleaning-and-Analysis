@@ -1,4 +1,4 @@
-# 🧹 Data Cleaning with Python and SQL
+# 🧹 Data Cleaning and Analysis with Python and SQL
 
 ## 📖 Overview
 This repository contains Python and SQL scripts for cleaning and preprocessing datasets using **Pandas** and **SQL functions**.
@@ -8,5 +8,10 @@ This repository contains Python and SQL scripts for cleaning and preprocessing d
 - **Removing duplicates**  
 - **Fixing data types**  
 - **Outlier detection**  
-- **Standardizing data**  
+- **Standardizing data**
 
+## 🔍 Data Analysis
+After cleaning, we perform:
+- **Descriptive statistics** (`mean`, `median`, `std`)
+- **Correlation analysis**  
+- **Data distribution plots**
