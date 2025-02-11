@@ -15,6 +15,6 @@ Welcome to my **portfolio repository**! This space showcases my projects, skills
 - **Statistical Methods:** A/B testing, Linear Regression, Hypothesis Testing, & more. 
 
 ## 📫 Contact  
-📧 Email: [ccjoppert@gmail.com]  
-🔗 LinkedIn: [www.linkedin.com/in/claudia-joppert-888568161  
+📧 Email: ccjoppert@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/claudia-joppert-888568161  
 
