@@ -1,17 +1,20 @@
-# 🧹 Data Cleaning and Analysis with Python and SQL
+# 🌟 My Portfolio
 
-## 📖 Overview
-This repository contains Python and SQL scripts for cleaning and preprocessing datasets using **Pandas** and **SQL functions**.
+## 📖 About  
+Welcome to my **portfolio repository**! This space showcases my projects, skills, and experiences in **Data Analysis and Economics**.  
 
-## 🚀 Features
-- Handling **missing values**  
-- **Removing duplicates**  
-- **Fixing data types**  
-- **Outlier detection**  
-- **Standardizing data**
+## 🚀 Projects  
+🔹 **[Auto Insurance]** – *Cleaning auto insurance data from Kaggle and analyzing the top companies with the most complaints over the years*  
+🔹 **[Foodhub Analysis]** – *FoodHub analysis reveals customer preferences, showing that people predominantly favor American and Japanese cuisine, while also highlighting trends in sales, supply chain efficiency, and market demand.*  
+🔹 **[Brazilian Politics]** – *coming soon*  
+🔹 **[Chinese Authoritarian Regime Analysis]** – *coming soon* 
 
-## 🔍 Data Analysis
-After cleaning, we perform:
-- **Descriptive statistics** (`mean`, `median`, `std`)
-- **Correlation analysis**  
-- **Data distribution plots**
+## 🛠 Skills  
+- **Programming and Data Analysis:** Python, SQL, Excel (VBA, macros, pivot tables, etc...)   
+- **Visualizations:** Tableau and Looker.
+- **Statistical Methods:** A/B testing, Linear Regression, Hypothesis Testing, & more. 
+
+## 📫 Contact  
+📧 Email: [ccjoppert@gmail.com]  
+🔗 LinkedIn: [your profile]  
+
