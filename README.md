@@ -6,8 +6,6 @@ Welcome to my **portfolio repository**! This space showcases my projects, skills
 ## 🚀 Projects  
 🔹 **[Auto Insurance]** – *Cleaning auto insurance data from Kaggle and analyzing the top companies with the most complaints over the years*  
 🔹 **[Foodhub Analysis]** – *FoodHub analysis reveals customer preferences, showing that people predominantly favor American and Japanese cuisine, while also highlighting trends in sales, supply chain efficiency, and market demand.*  
-🔹 **[Brazilian Political Sentiment Analysis]** – *Coming soon*  
-🔹 **[Chinese Authoritarian Regime Analysis]** – *Coming soon* 
 🔹 **[Clinical Trial Analysis]** – *Coming soon* 
 
 ## 🛠 Skills  
