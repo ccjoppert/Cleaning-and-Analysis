@@ -6,7 +6,7 @@ Welcome to my **portfolio repository**! This space showcases my projects, skills
 ## 🚀 Projects  
 🔹 **[Auto Insurance]** – *Cleaning auto insurance data from Kaggle and analyzing the top companies with the most complaints over the years*  
 🔹 **[Foodhub Analysis]** – *FoodHub analysis reveals customer preferences, showing that people predominantly favor American and Japanese cuisine, while also highlighting trends in sales, supply chain efficiency, and market demand.*  
-🔹 **[Clinical Trial Analysis]** – *Coming soon* 
+🔹 **[Wildfire Mitigation]** – *Coming soon* 
 
 ## 🛠 Skills  
 - **Programming and Data Analysis:** Python (Pandas, NumPy, Matplotlib), SQL (JOINS, CTE, and windows), Excel (VBA, macros, pivot tables, etc...)   
